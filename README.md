@@ -1,58 +1,28 @@
-# Xterionix's Portfolio
+# Exploding Creeper's Portfolio
 
-I am a professional Minecraft Bedrock coder, experienced in most aspects of the game.
+Let's keep it simple and clean,
+Hello, I am a professional Minecraft Bedrock coder, experienced in most aspects of the game.
 
-- Scripting
 - Entities
 - Items
 - Blocks
-- World Gen
 - Functions & Commands
 - Loot tables and trade tables
 - Recipes
 - Molang
 - Particles
+- UI
+- math based animations
 
-## Videos of Addons
+## Some sneak peaks of the thing I've done:
 
 ### Scripting
 ------
 
-**4 by 4 Crafting Table**
-
-Completely working 4x4 crafting table that can be expanded to 5x5 or even 3x4
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/208864485-f9c7154c-dbe4-43f0-a2eb-7c6998ba410c.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
-
-**Functional UIs**
-
-Completely functional ingame tile entity like system, supports various other foramts.
-
-First Example
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216349996-5de1f2d4-6a92-448d-a1b5-62516e5e9e8b.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-Second Example
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216350270-27505fad-f7ef-4759-8b44-9752ca49f944.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-Third Example
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216356147-24323936-9f95-4424-908c-fa1ae3957712.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-**Stealing Items from the Player**
-
-Allows entites to steal items from the players, items can be filtered and a cooldown can be added
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613957-41bb5d6a-fbbe-41a3-8a15-03c7fac4726f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-
 ### Entities
 ------
 
-**Entity Attacks**
-
-Allows entities to do attacks while being ridden by the player
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x7f27q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
----
-**Dragon entity**
+**Dragon Flight**
 
 Uses custom flight controls and custom attacks
 
@@ -64,13 +34,11 @@ Works with varaints, allowing players to transfer entities.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613721-6df5f15a-3784-435e-ade3-a3f76a10950f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-Example 2
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613721-6df5f15a-3784-435e-ade3-a3f76a10950f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
 **Use of obscure components such as `minecraft:lookat`**
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/k3g4gh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 ---
 **Custom death animation**
 
@@ -78,23 +46,13 @@ Uses a different animation when the entity dies.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/sykddn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-**Custom charge attack**
 
-The vanilla goat ram attack was not functional, so I made my own.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/aoj0ew" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
 **Entities dragging players**
 
 Can be used for an entity picking up the player as well.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/gsmlm3" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
-**Unique damage system**
 
-Allows certain areas of the entites make it instantly die.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/5bu18z" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
 **Immobile/Block-like entites**
 
@@ -104,34 +62,9 @@ Works similar to blocks.
 
 Summons sheep on an interval
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/fbktya" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
-**Unique entity behavior**
-
-The entity path finds to the house block and "goes inside" at night and leaves during the day.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/d5kvvq" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ### Attachables
-------
 
-**Mermaid Tails**
-
-Allows players to swim faster
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x1drdr" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
-**Medusa Tail**
-
-Allows players to move faster, allows provides effect bonus.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/wwrdb6" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
-**Wings**
-
-Allows players to fly.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/q5xvxr" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
 **Armor & 3D Weapons**
 
 Using vanilla models
