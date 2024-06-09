@@ -1,4 +1,0 @@
-theme: jekyll-theme-cayman
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-url: "https://explodingcreeper.github.io/"
