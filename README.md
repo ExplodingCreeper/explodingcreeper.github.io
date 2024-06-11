@@ -1,5 +1,4 @@
 Let's keep it simple and clean.
-/n
 Hello! I'm ExplodingCreeper, a passionate and dedicated addon-maker for minecraft bedrock edition. With a keen eye for detail and a commitment to excellence, I strive to bring innovative ideas to life and deliver outstanding results. Welcome to my portfolio, where you can explore my skills, experience, and some of the projects I'm proud to have worked on. Let's connect and create something amazing together!
 
 **What I Offer:**
