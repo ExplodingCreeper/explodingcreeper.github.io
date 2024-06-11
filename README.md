@@ -26,7 +26,7 @@ creating 3d weapons which can glow in the dark, add particles to it.
 **Weapons that can have multiple attacks**
 uses UI to switch through attack patterns
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/d2vbi8" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:62.500%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/d2vbi8?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Weapons with different attack animations**
 
