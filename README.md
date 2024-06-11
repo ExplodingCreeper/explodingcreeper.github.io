@@ -21,7 +21,7 @@ Hello! I'm ExplodingCreeper, a passionate and dedicated addon-maker for minecraf
 **3d weapons**
 creating 3d weapons which can glow in the dark, add particles to it.
 
-![image](https://imgur.com/undefined)
+<div style="position:relative; width:100%; height:0px; padding-bottom:100.000%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/f2biee?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Weapons that can have multiple attacks**
 uses UI to switch through attack patterns
@@ -30,11 +30,11 @@ uses UI to switch through attack patterns
 
 **Weapons with different attack animations**
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/9E2BLgs" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:44.944%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/mtgz9d?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Animted items**
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/zN35t9O" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:62.500%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/j5so4v?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ### Entities
 
@@ -42,34 +42,34 @@ uses UI to switch through attack patterns
 
 Utilizes custom flight controls with smooth turning animations and unique attack mechanics
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/PdJ43Qo" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/t8ds93?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Dummy target entity with damage indicator**
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/XOOAf5G" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/aspd2n?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Entity throwing blocks**
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://vimeo.com/956307835?share=copy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:62.500%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/n515bx?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ### UI
 
 **UI menu**
 Opens a menu to swtich through magic attacks
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/HhQWFTP" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:62.500%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/m053uq?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Crafting Table UI**
 Custom crafting tables with 4x4, 6x6 slots
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/oXuNVBo" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/44osdj?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 (credits to @xterionix in discord for functionality)
----------
+---
 
 Custom crafting table with timer and multiple output slots
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/6gr9yEc" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ie3ulf?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 (credits to @xterionix in discord for functionality)
----------
+---
 
 For any further inquiries, feel free to reach out to me on Discord `@exploding.creeper`
