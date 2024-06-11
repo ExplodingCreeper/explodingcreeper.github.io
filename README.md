@@ -20,9 +20,9 @@ Hello! I'm ExplodingCreeper, a passionate and dedicated addon-maker for minecraf
 ### ITEMS
 
 **3d weapons**
-creating 3d weapons which can glow in the dark, have custom use/attack animation, add particles to it.
+creating 3d weapons which can glow in the dark, add particles to it.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/u52ejt" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+![image](https://imgur.com/undefined)
 
 **Weapons that can have multiple attacks**
 uses UI to switch through attack patterns
@@ -51,7 +51,7 @@ Utilizes custom flight controls with smooth turning animations and unique attack
 
 **Entity throwing blocks**
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://imgur.com/3sW9wXc" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://vimeo.com/956307835?share=copy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ### UI
 
