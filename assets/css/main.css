@@ -195,7 +195,7 @@ figure.effect-ming h6 {
   opacity: 0;
   padding: 0px;
   margin: 0px;
-  color: #fff;
+  color: #ffffff;
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
   transition: opacity 0.35s, transform 0.35s;
   -webkit-transform: scale(1.5);
