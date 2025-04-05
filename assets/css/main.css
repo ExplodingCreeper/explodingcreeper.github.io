@@ -185,6 +185,7 @@ figure.effect-ming figcaption::before {
 figure.effect-ming h2 {
   font-size: 1.3em;
   opacity: 0;
+  color: #ffffff;
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
   transition: opacity 0.35s, transform 0.35s;
   -webkit-transform: scale(1.5);
