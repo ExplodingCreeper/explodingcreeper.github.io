@@ -231,11 +231,11 @@ figure.effect-ming:hover img {
 }
 
 .accent-background {
-  --background-color: #0078ff;
+  --background-color: #00683DFF;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --accent-color: #ffffff;
-  --surface-color: #3393ff;
+  --surface-color: #00C16EFF;
   --contrast-color: #ffffff;
 }
 
