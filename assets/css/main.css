@@ -1799,6 +1799,77 @@ section,
   color: var(--accent-color);
 }
 
+/*--------------------------------------------------------------
+# Portfolio Fix (no Isotope)
+--------------------------------------------------------------*/
+.portfolio .isotope-layout,
+.portfolio .isotope-container {
+  display: block !important;
+}
+.portfolio .portfolio-item {
+  margin-top: 0 !important;
+}
+
+/*--------------------------------------------------------------
+# Equal-Size Portfolio Cards (playable)
+--------------------------------------------------------------*/
+.portfolio .tm-video-item {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #000;
+}
+
+.portfolio .tm-video-item video {
+  width: 100%;
+  height: 100%;
+  min-height: 0 !important;
+  max-width: none !important;
+  object-fit: cover;
+  display: block;
+  position: relative;
+  z-index: 1;
+  pointer-events: auto;
+}
+
+.portfolio .tm-video-item figcaption {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/*--------------------------------------------------------------
+# Works Card Rating
+--------------------------------------------------------------*/
+.works .work-card-rating {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 6px 0 12px;
+  flex-wrap: wrap;
+}
+
+.works .work-card-rating .stars {
+  display: inline-flex;
+  gap: 2px;
+  color: #ffc107;
+  font-size: 14px;
+  line-height: 1;
+}
+
+.works .work-card-rating .rating-score {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--heading-color);
+}
+
+.works .work-card-rating .rating-count {
+  font-size: 12px;
+  color: color-mix(in srgb, var(--default-color), transparent 35%);
+}
+
 /* Hamburger styles */
 .hamburger {
   display: none;
